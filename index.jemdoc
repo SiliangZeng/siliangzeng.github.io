@@ -11,13 +11,22 @@ Email: zeng0176 [at] umn (dot) edu
 
 == About me
 I am a second year PhD student at [https://twin-cities.umn.edu/ University of Minnesota], advised by [https://people.ece.umn.edu/~mhong/mingyi.html Prof. Mingyi Hong]. \n
+Before moving to Minnesota, I received the B.S. in Statistics from [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in 2020. \n
 \n
-My current research focuses on the theoretical understanding and practical applications in *Reinforcement Learning*. \n
+My research interests lie in the interface between machine learning, optimization and statistics. 
+The motivation of my research is to design efficient algorithms for sequential decision making under uncertainty (*Reinforcement Learning*). My recent research topics include imitation learning, multi-agent reinforcement learning and large-scale optimization algorithms. \n
 \n
-Before joining University of Minnesota, I received the B.S. in Statistics from The Chinese University of Hong Kong, Shenzhen ([https://www.cuhk.edu.cn/en CUHKSZ]) in 2020.
 
-=== Recent Publications 
+== Recent News
+- Oct 2021: Our paper [https://arxiv.org/abs/2110.05597 Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees] is available online. \n
+    \n
+    This paper develops a novel collaboration mechanism for designing robust MARL systems with theoretical guarantees. Specifically, we propose a class of coordinated actor-critic (*CAC*) algorithms where agents partially share their individually parametrized policies with neighbors.
+    We  conduct extensive numerical experiments and present theoretical analysis to demonstrate the
+    effectiveness of the proposed algorithm.\n
+    \n
 
-[publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
+- Sep 2021: One paper has been accepted to *NeurIPS 2021*: [https://arxiv.org/abs/2102.07367 A Near-Optimal Algorithm for Stochastic Bilevel Optimization via Double-Momentum]. \n
+    \n
+    This paper proposes a new algorithm – the Single-timescale Double-momentum Stochastic Approximation (*SUSTAIN*) – for tackling stochastic unconstrained bilevel optimization problems. 
+    The proposed algorithm achieves the best sample complexity for certain class of bi-level optimization problem.
+
