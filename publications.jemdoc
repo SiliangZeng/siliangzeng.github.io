@@ -2,7 +2,11 @@
 ==Publication
 
 ~~~
-{Conference Papers}
+{Conference / Workshop Papers}
+- [https://openreview.net/forum?id=FfELl5h3Nec Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
+    *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
+    Decision Awareness in Reinforcement Learning Workshop at ICML 2022 \n 
+
 - [https://arxiv.org/abs/2110.05597 Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees] \n
     *Siliang Zeng*, Tianyi Chen, Alfredo Garcia, Mingyi Hong \n
     4th Annual Learning for Dynamics & Control Conference (*L4DC 2022*). \n
@@ -30,14 +34,6 @@
 - [https://arxiv.org/abs/2006.11662 On the Divergence of Decentralized Non-Convex Optimization] \n 
     Mingyi Hong, *Siliang Zeng*, Junyu Zhang, Haoran Sun \n
     SIAM Journal on Optimization \n 
-
-~~~
-
-~~~
-{Workshop Papers}
-- [https://openreview.net/forum?id=FfELl5h3Nec Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
-    *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
-    Decision Awareness in Reinforcement Learning Workshop at ICML 2022 \n 
 
 ~~~
 
