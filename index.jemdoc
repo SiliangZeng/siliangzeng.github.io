@@ -18,15 +18,28 @@ The motivation of my research is to design efficient algorithms for sequential d
 \n
 
 == Recent News
-- Mar 2022: One paper has been accepted to *L4DC 2022*: [https://arxiv.org/abs/2110.05597 Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees]. \n
-    \n
-    This paper develops a novel collaboration mechanism for designing robust MARL systems with theoretical guarantees. Specifically, we propose a class of coordinated actor-critic (*CAC*) algorithms where agents partially share their individually parametrized policies with neighbors.
-    We  conduct extensive numerical experiments and present theoretical analysis to demonstrate the
-    effectiveness of the proposed algorithm.\n
-    \n
+- Jun 2022: One paper has been accepted to *Decision Awareness in Reinforcement Learning Workshop at ICML 2022*: [https://openreview.net/forum?id=FfELl5h3Nec \n Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees]. \n
+    #\n
+    #This paper develops an inverse reinforcement learning framework, which aims to recover the nonlinear reward function through maximizing the Likelihood function over the expert trajectories. 
+    #A novel single-loop algorithm for IRL is proposed, where each policy improvement step is followed by a stochastic gradient step for likelihood maximization. We show that the proposed algorithm provably converges to a stationary solution with a finite-time guarantee. 
+    #Finally, by using robotics control problems in Mujoco and their transfer settings, we show that the proposed algorithm achieves superior performance compared with other IRL and imitation learning benchmarks. \n
+    #\n
 
-- Sep 2021: One paper has been accepted to *NeurIPS 2021*: [https://arxiv.org/abs/2102.07367 A Near-Optimal Algorithm for Stochastic Bilevel Optimization via Double-Momentum]. \n
-    \n
-    This paper proposes a new algorithm – the Single-timescale Double-momentum Stochastic Approximation (*SUSTAIN*) – for tackling stochastic unconstrained bilevel optimization problems. 
-    The proposed algorithm achieves the best sample complexity for certain class of bi-level optimization problem.
+- Jun 2022: One paper has been accepted to *SIAM Journal on Optimization*: [https://arxiv.org/abs/2006.11662 \n On the Divergence of Decentralized Non-Convex Optimization]. \n
+    #\n
+    #We study a generic class of decentralized algorithms in which N agents jointly optimize sum local objectives. By constructing some counter-examples, we show that when certain local Lipschitz conditions (LLC) on the local function gradients are not satisfied, 
+    #most of the existing decentralized algorithms diverge, even if the global Lipschitz condition (GLC) is satisfied, where the sum function f has Lipschitz gradient. We then design a first-order algorithm, which is capable of computing stationary solutions with neither the LLC nor the GLC. \n
+    #\n
+
+- Mar 2022: One paper has been accepted to *L4DC 2022*: [https://arxiv.org/abs/2110.05597 \n Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees]. \n
+    #\n
+    #This paper develops a novel collaboration mechanism for designing robust MARL systems with theoretical guarantees. Specifically, we propose a class of coordinated actor-critic (*CAC*) algorithms where agents partially share their individually parametrized policies with neighbors.
+    #We  conduct extensive numerical experiments and present theoretical analysis to demonstrate the
+    #effectiveness of the proposed algorithm.\n
+    #\n
+
+- Sep 2021: One paper has been accepted to *NeurIPS 2021*: [https://arxiv.org/abs/2102.07367 \n A Near-Optimal Algorithm for Stochastic Bilevel Optimization via Double-Momentum]. \n
+    #\n
+    #This paper proposes a new algorithm – the Single-timescale Double-momentum Stochastic Approximation (*SUSTAIN*) – for tackling stochastic unconstrained bilevel optimization problems. 
+    #The proposed algorithm achieves the best sample complexity for certain class of bi-level optimization problem.
 
