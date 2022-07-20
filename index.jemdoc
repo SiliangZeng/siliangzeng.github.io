@@ -18,6 +18,9 @@ The motivation of my research is to design efficient algorithms for sequential d
 \n
 
 == Recent News
+- Jul 2022: I have been selected for a travel grant from the DARL Workshop at ICML 2022! 
+    #\n
+
 - Jun 2022: One paper has been accepted to *Decision Awareness in Reinforcement Learning Workshop at ICML 2022*: [https://openreview.net/forum?id=FfELl5h3Nec \n Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees]. \n
     #\n
     #This paper develops an inverse reinforcement learning framework, which aims to recover the nonlinear reward function through maximizing the Likelihood function over the expert trajectories. 
