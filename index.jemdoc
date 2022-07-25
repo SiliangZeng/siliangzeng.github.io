@@ -13,8 +13,8 @@ Email: zeng0176 [at] umn (dot) edu
 I am a second year PhD student at [https://twin-cities.umn.edu/ University of Minnesota], advised by [https://people.ece.umn.edu/~mhong/mingyi.html Prof. Mingyi Hong]. \n
 Before moving to Minnesota, I received the B.S. in Statistics from [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in 2020. \n
 \n
-My research interests lie in the interface between machine learning, optimization and statistics. 
-The motivation of my research is to design efficient algorithms for sequential decision making under uncertainty (*Reinforcement Learning*). My recent research topics include reinforcement learning and large-scale optimization algorithms. \n
+In my research, I am always thinking about how to design practical algorithms and systems for sequential decision making under uncertainty. \n
+My recent research topics include inverse reinforcement learning, imitation learning and offline reinforcement learning.
 \n
 
 == Recent News
