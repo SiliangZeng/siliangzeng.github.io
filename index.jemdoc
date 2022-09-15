@@ -18,6 +18,15 @@ My recent research topics include inverse reinforcement learning, imitation lear
 \n
 
 == Recent News
+- Sep 2022: Two papers have been accepted to *NeurIPS 2022*: \n
+    [https://openreview.net/forum?id=FfELl5h3Nec Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n
+    [A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization] \n
+    #\n
+    #This paper develops an inverse reinforcement learning framework, which aims to recover the nonlinear reward function through maximizing the Likelihood function over the expert trajectories. 
+    #A novel single-loop algorithm for IRL is proposed, where each policy improvement step is followed by a stochastic gradient step for likelihood maximization. We show that the proposed algorithm provably converges to a stationary solution with a finite-time guarantee. 
+    #Finally, by using robotics control problems in Mujoco and their transfer settings, we show that the proposed algorithm achieves superior performance compared with other IRL and imitation learning benchmarks. \n
+    #\n
+
 - Jul 2022: I have been selected for a travel grant from the DARL Workshop at ICML 2022! 
     #\n
 

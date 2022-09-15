@@ -13,7 +13,14 @@
 {Conference / Workshop Papers}
 - [https://openreview.net/forum?id=FfELl5h3Nec Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
-    Decision Awareness in Reinforcement Learning Workshop at ICML 2022 \n 
+    Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
+    (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022) \n
+    \n
+
+- [A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization] \n
+    Songtao Lu, *Siliang Zeng*, Xiaodong Cui, Mark S. Squillante, Lior Horesh, Brian Kingsbury, Jia Liu, Mingyi Hong \n
+    Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
+    \n
 
 - [https://arxiv.org/abs/2110.05597 Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees] \n
     *Siliang Zeng*, Tianyi Chen, Alfredo Garcia, Mingyi Hong \n
