@@ -17,10 +17,24 @@ In my research, I am always thinking about how to design practical algorithms an
 My recent research topics include inverse reinforcement learning, imitation learning and offline reinforcement learning.
 \n
 
+
+== Selected Works
+
+- [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
+  State Space with Finite-Time Guarantees] \n 
+    *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
+    Submitted, 2022 \n
+
+- [http://arxiv.org/abs/2210.01808 Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
+    *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
+    Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
+    (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022) 
+
+
 == Recent News
 - Sep 2022: Two papers have been accepted to *NeurIPS 2022*: \n
-    [https://openreview.net/forum?id=FfELl5h3Nec Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n
-    [A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization] \n
+    [http://arxiv.org/abs/2210.01808 Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees.] \n
+    [http://arxiv.org/abs/2210.01808 A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization.] \n
     #\n
     #This paper develops an inverse reinforcement learning framework, which aims to recover the nonlinear reward function through maximizing the Likelihood function over the expert trajectories. 
     #A novel single-loop algorithm for IRL is proposed, where each policy improvement step is followed by a stochastic gradient step for likelihood maximization. We show that the proposed algorithm provably converges to a stationary solution with a finite-time guarantee. 
