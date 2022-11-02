@@ -25,7 +25,7 @@ My recent research topics include inverse reinforcement learning, imitation lear
     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
     Submitted Journal Paper, 2022 \n
 
-- [http://arxiv.org/abs/2210.01808 Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
+- [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
     Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
     (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022) 
@@ -35,8 +35,8 @@ My recent research topics include inverse reinforcement learning, imitation lear
 - Oct 2022: I am thrilled to receive the *NeurIPS 2022 Scholar Award*. See you in New Orleans!
 
 - Sep 2022: Two papers have been accepted to *NeurIPS 2022*: \n
-    [http://arxiv.org/abs/2210.01808 Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees.] \n
-    [http://arxiv.org/abs/2210.01808 A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization.] \n
+    [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees.] \n
+    [https://openreview.net/attachment?id=0RMDK39mGg&name=supplementary_material A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization.] \n
     #\n
     #This paper develops an inverse reinforcement learning framework, which aims to recover the nonlinear reward function through maximizing the Likelihood function over the expert trajectories. 
     #A novel single-loop algorithm for IRL is proposed, where each policy improvement step is followed by a stochastic gradient step for likelihood maximization. We show that the proposed algorithm provably converges to a stationary solution with a finite-time guarantee. 
