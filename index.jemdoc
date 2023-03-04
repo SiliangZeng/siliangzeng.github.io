@@ -5,7 +5,7 @@
 {}{img_left}{photo.jpeg}{}{200px}{}
 \n [https://cse.umn.edu/ece Electrical and Computer Engineering], \n
 [https://twin-cities.umn.edu/ University of Minnesota, Twin Cities]\n
-[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/s/txzm6f5g5dxirqp/Siliang%20CV.pdf?dl=0 CV] \n
+[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/s/uy3rorzj6jfxw8f/Siliang%20CV.pdf?dl=0 CV] \n
 Email: zeng0176 [at] umn (dot) edu
 ~~~
 
@@ -18,12 +18,17 @@ My recent research topics include inverse reinforcement learning, imitation lear
 \n
 
 
-== Representative / Recent Works
+== Representative / Recent Works (\* indicates equal contribution.)
+
+- [https://arxiv.org/abs/2302.07457 Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
+    *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
+    Preprint, 2023 \n
+
 
 - [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
   State Space with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
-    Submitted Journal Paper, 2022 \n
+    Preprint, 2022 \n
 
 - [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
@@ -32,6 +37,9 @@ My recent research topics include inverse reinforcement learning, imitation lear
 
 
 == Recent News
+- March 2023: I gave an invited talk at Amazon AWS about our recent work on offline inverse reinforcement learning: \n 
+    [https://arxiv.org/abs/2302.07457 Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
+
 - Oct 2022: I am thrilled to receive the *NeurIPS 2022 Scholar Award*. See you in New Orleans!
 
 - Sep 2022: Two papers have been accepted to *NeurIPS 2022*: \n
