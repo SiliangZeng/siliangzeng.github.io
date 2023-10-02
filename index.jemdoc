@@ -5,30 +5,36 @@
 {}{img_left}{photo.jpeg}{}{200px}{}
 \n [https://cse.umn.edu/ece Electrical and Computer Engineering], \n
 [https://twin-cities.umn.edu/ University of Minnesota, Twin Cities]\n
-[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/s/uy3rorzj6jfxw8f/Siliang%20CV.pdf?dl=0 CV] \n
+[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/scl/fi/hn3vtne77lob53bw8q8eg/Siliang-CV.pdf?rlkey=hrj5hkm3dxehulrdimsygirzv&dl=0 CV] \n
 Email: zeng0176 [at] umn (dot) edu
 ~~~
 
 == About me
-I am a third year PhD student at [https://twin-cities.umn.edu/ University of Minnesota], advised by [https://people.ece.umn.edu/~mhong/mingyi.html Prof. Mingyi Hong]. \n
+I am a fourth year PhD student at [https://twin-cities.umn.edu/ University of Minnesota], advised by [https://people.ece.umn.edu/~mhong/mingyi.html Prof. Mingyi Hong]. \n
 Before moving to Minnesota, I received the B.S. in Statistics from [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in 2020. \n
 
 In my research, I am always thinking about how to design practical algorithms and systems for sequential decision making under uncertainty. \n
-My recent research topics include inverse reinforcement learning, imitation learning and offline reinforcement learning.
+My recent research interests focus on the intersection between foundation models and reinforcement learning.
 \n
+
+== Experience
+
+- Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2023 - Sep 2023. \n
+Work on finetuning large language model with reinforcement leraning. (Mentor: [https://kaixianglin.github.io/ Kaixiang Lin]) \n
+
 
 
 == Representative / Recent Works (\* indicates equal contribution.)
 
 - [https://arxiv.org/abs/2302.07457 Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
     *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
-    Preprint, 2023 \n
+    Thirty-seventh Conference on Neural Information Processing Systems (*NeurIPS*) 2023. (*Oral*) \n
 
 
 - [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
   State Space with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
-    Preprint, 2022 \n
+    Under major revision at *Operations Research*.
 
 - [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
@@ -37,6 +43,12 @@ My recent research topics include inverse reinforcement learning, imitation lear
 
 
 == Recent News
+- Sep 2023: One paper has been accepted to *NeurIPS 2023* as an *oral*: [https://arxiv.org/abs/2302.07457 \n Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning]. \n
+
+- August 2023: One paper has been accepted to *Conference on Robot Learning (CoRL) 2023*: [https://openreview.net/forum?id=W5SrUCN0yUa&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) \n A Bayesian Approach to Robust Inverse Reinforcement Learning ]. \n
+
+- May 2023: I join *Amazon Web Search (AWS)* as an applied scientist intern. I will work on reinforcement learning and large language model training.
+
 - March 2023: I gave an invited talk at Amazon AWS about our recent work on offline inverse reinforcement learning: \n 
     [https://arxiv.org/abs/2302.07457 Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
 
