@@ -5,7 +5,7 @@
 {}{img_left}{photo.jpeg}{}{200px}{}
 \n [https://cse.umn.edu/ece Electrical and Computer Engineering], \n
 [https://twin-cities.umn.edu/ University of Minnesota, Twin Cities]\n
-[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/scl/fi/sne0pkukp2y8yi45971g3/Siliang-CV.pdf?rlkey=ytlrn3qv0yk572zes2cmv59e4&dl=0 CV] \n
+[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/scl/fi/ws67upo6n1g53bg211gji/Siliang-CV.pdf?rlkey=4oj9tkzmskqeslt70bgjdlb0v&st=lwo9yav5&dl=0 CV] \n
 Email: zeng0176 [at] umn (dot) edu
 ~~~
 
@@ -13,7 +13,8 @@ Email: zeng0176 [at] umn (dot) edu
 I am a fourth year PhD student at [https://twin-cities.umn.edu/ University of Minnesota], advised by [https://people.ece.umn.edu/~mhong/mingyi.html Prof. Mingyi Hong]. \n
 Before moving to Minnesota, I received the B.S. in Statistics from [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in 2020. \n
 
-In my research, I am always thinking about how to design practical algorithms and systems for sequential decision making under uncertainty. \n
+In my research, I am always thinking about how to design practical algorithms and systems for sequential decision making under uncertainty. \n 
+My recent research interests focus on large language model and reinforcement learning. \n
 
 
 == Experience
@@ -42,6 +43,13 @@ Work on finetuning large language model with reinforcement leraning. (Mentor: [h
 
 
 == Recent News
+
+- Apr 2024: I am thrilled to receive the *2024-25 Doctoral Dissertation Fellowship* (DDF). 
+
+- Apr 2024: I am invited to give a talk at *Ai4* - Industry's Leading AI Conference. See you in Las Vegas!
+
+- Nov 2023: I am invited to give a talk at the Coordinated Science Laboratory of UIUC.
+
 - Oct 2023: I am thrilled to receive the *NeurIPS 2023 Scholar Award*. See you in New Orleans!
 
 - Sep 2023: One paper has been accepted to *NeurIPS 2023* as an *oral*: [https://arxiv.org/abs/2302.07457 \n Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning]. \n
