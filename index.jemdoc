@@ -5,7 +5,7 @@
 {}{img_left}{photo.jpeg}{}{200px}{}
 \n [https://cse.umn.edu/ece Electrical and Computer Engineering], \n
 [https://twin-cities.umn.edu/ University of Minnesota, Twin Cities]\n
-[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/scl/fi/ws67upo6n1g53bg211gji/Siliang-CV.pdf?rlkey=4oj9tkzmskqeslt70bgjdlb0v&st=lwo9yav5&dl=0 CV] \n
+[https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en Google Scholar], [https://www.dropbox.com/scl/fi/4beoacfuxu5s1u8wjb9dr/Siliang-CV.pdf?rlkey=v5vr0z39f01iea69i5xglab5n&st=z5l53ayj&dl=0 CV] \n
 Email: zeng0176 [at] umn (dot) edu
 ~~~
 
@@ -18,6 +18,9 @@ My recent research interests focus on large language model and reinforcement lea
 
 
 == Experience
+
+- Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2024 - Sep 2024. \n
+Work on large language model alignment. (Mentor: [http://yao-liu.com/ Yao Liu] and [https://sites.google.com/site/rfakoor Rasool Fakoor]) \n
 
 - Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2023 - Sep 2023. \n
 Work on finetuning large language model with reinforcement leraning. (Mentor: [https://kaixianglin.github.io/ Kaixiang Lin]) \n
@@ -34,7 +37,7 @@ Work on finetuning large language model with reinforcement leraning. (Mentor: [h
 - [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
   State Space with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
-    Under major revision at *Operations Research*.
+    Accepted by *Operations Research*.
 
 - [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
@@ -43,6 +46,14 @@ Work on finetuning large language model with reinforcement leraning. (Mentor: [h
 
 
 == Recent News
+
+- July 2024: One paper has been accepted to *Operations Research*: \n 
+[https://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional State Space with Finite-Time Guarantees]
+
+- Jun 2024: One paper has been accepted to *ICML 2024 Workshop on 
+Theoretical Foundations of Foundation Models*: \n [https://arxiv.org/abs/2405.17888 Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment]
+
+- May 2024: I join *Amazon Web Search (AWS)* as an applied scientist intern. I will work on large language model alignment.
 
 - Apr 2024: I am thrilled to receive the *2024-25 Doctoral Dissertation Fellowship* (DDF). 
 

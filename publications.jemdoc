@@ -4,23 +4,30 @@
 
 ~~~
 {Preprints}
-- [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
-  State Space with Finite-Time Guarantees] \n 
-    *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
-    Under major revision at *Operations Research*. \n
+- [https://arxiv.org/abs/2406.06874 Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback] \n 
+    Chenliang Li, *Siliang Zeng*, Zeyi Liao, Jiaxiang Li, Dongyeop Kang, Alfredo Garcia, Mingyi Hong \n
 
 ~~~
 
 ~~~
 {Journal Papers}
+- [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
+  State Space with Finite-Time Guarantees] \n 
+    *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
+    Accpted to *Operations Research*. \n
+
 - [https://arxiv.org/abs/2006.11662 On the Divergence of Decentralized Non-Convex Optimization] \n 
     Mingyi Hong, *Siliang Zeng*, Junyu Zhang, Haoran Sun \n
-    SIAM Journal on Optimization \n 
+    *SIAM Journal on Optimization* \n 
 
 ~~~
 
 ~~~
 {Conference / Workshop Papers}
+- [https://arxiv.org/abs/2405.17888 Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment] \n 
+    Jiaxiang Li, *Siliang Zeng*, Hoi-To Wai, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
+    Accepted to *ICML 2024 Workshop on Theoretical Foundations of Foundation Models*. \n
+
 - [https://arxiv.org/abs/2302.07457 When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
     *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
     Thirty-seventh Conference on Neural Information Processing Systems (*NeurIPS 2023*). (*Oral: 0.5% \[67/12343\] *) \n
