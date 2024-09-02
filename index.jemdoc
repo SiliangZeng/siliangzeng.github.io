@@ -19,15 +19,19 @@ My recent research interests focus on foundation model alignment. \n
 
 == Experience
 
-- Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2024 - Sep 2024. \n
-Work on large language model alignment. (Mentor: [http://yao-liu.com/ Yao Liu] and [https://sites.google.com/site/rfakoor Rasool Fakoor]) \n
+- Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2024 - Oct 2024. \n
+Design RLHF algorithm to align LLMs with high-quality demonstrations. (Mentor: [http://yao-liu.com/ Yao Liu] and [https://sites.google.com/site/rfakoor Rasool Fakoor]) \n
 
-- Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2023 - Sep 2023. \n
-Work on finetuning large language model with reinforcement leraning. (Mentor: [https://kaixianglin.github.io/ Kaixiang Lin]) \n
+- Applied Scientist Intern, Amazon Web Search (*AWS*) AI Research and Education lab, Santa Clara, May 2023 - Oct 2023. \n
+Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [https://kaixianglin.github.io/ Kaixiang Lin]) \n
 
 
 
-== Representative / Recent Works (\* indicates equal contribution.)
+== Selected Publications (\* indicates equal contribution.)
+
+- [https://arxiv.org/abs/2405.17888 Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment] \n 
+    Jiaxiang Li, *Siliang Zeng*, Hoi-To Wai, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
+    Accepted to ICML 2024 Workshop on Theoretical Foundations of Foundation Models. \n
 
 - [https://arxiv.org/abs/2302.07457 When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
     *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
@@ -44,8 +48,17 @@ Work on finetuning large language model with reinforcement leraning. (Mentor: [h
     Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
     (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022) 
 
+- [https://openreview.net/forum?id=0RMDK39mGg&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization] \n
+    Songtao Lu, *Siliang Zeng*, Xiaodong Cui, Mark S. Squillante, Lior Horesh, Brian Kingsbury, Jia Liu, Mingyi Hong \n
+    Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
+    Selected as an *Honorable Mention* in the *IBM Pat Goldberg Memorial competition for best papers*. \n
+    \n
+
 
 == Recent News
+
+- August 2024: Our paper titled "A stochastic linearized augmented Lagrangian method for decentralized bilevel optimization" 
+has been \n selected as an *Honorable Mention* in the *IBM Pat Goldberg Memorial competition for best papers*!
 
 - July 2024: One paper has been accepted to *Operations Research*: \n 
 [https://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional State Space with Finite-Time Guarantees]
