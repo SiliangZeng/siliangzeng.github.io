@@ -31,7 +31,8 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 - [https://arxiv.org/abs/2405.17888 Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment] \n 
     Jiaxiang Li, *Siliang Zeng*, Hoi-To Wai, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
-    Accepted to ICML 2024 Workshop on Theoretical Foundations of Foundation Models. \n
+    Thirty-eighth Annual Conference on Neural Information Processing Systems (*NeurIPS 2024*). \n
+    Also accepted to ICML 2024 Workshop on Theoretical Foundations of Foundation Models. \n
 
 - [https://arxiv.org/abs/2302.07457 When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
     *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
@@ -41,7 +42,7 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 - [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
   State Space with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
-    Accepted by *Operations Research*.
+    *Operations Research*.
 
 - [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
@@ -56,6 +57,9 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 
 == Recent News
+
+- Sep 2024: One paper has been accepted to *NeurIPS 2024*: \n
+[https://arxiv.org/abs/2405.17888 Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment]
 
 - August 2024: Our paper titled "A stochastic linearized augmented Lagrangian method for decentralized bilevel optimization" 
 has been \n selected as an *Honorable Mention* in the *IBM Pat Goldberg Memorial competition for best papers*!
