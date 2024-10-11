@@ -60,7 +60,7 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 - Oct 2024: Two papers got accepted to *NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability* (FITML 2024): \n
 [https://openreview.net/forum?id=D8SSXvhZHl&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Learning Reward and Policy Jointly from Demonstration and Preference Improves Alignment.] \n
-[https://openreview.net/pdf?id=AdNrerin75 Policy Optimization can be Memory-Efficient: LLM Alignment Through Successive Policy Re-weighting (SPR).]
+[https://openreview.net/forum?id=AdNrerin75 Policy Optimization can be Memory-Efficient: LLM Alignment Through Successive Policy Re-weighting (SPR).]
 
 - Sep 2024: One paper has been accepted to *NeurIPS 2024*: \n
 [https://arxiv.org/abs/2405.17888 Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment]

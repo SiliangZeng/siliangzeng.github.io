@@ -16,9 +16,9 @@
 ~~~
 
 ~~~
-{Conference / Workshop Papers}
+{Conference / Workshop Papers (\* indicates equal contribution.)}
 - [https://openreview.net/forum?id=AdNrerin75&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Policy Optimization can be Memory-Efficient: LLM Alignment Through Successive Policy Re-weighting (SPR).] \n
-    *Xinnan Zhang, Siliang Zeng\**, Jiaxiang Li*, Kaixiang Lin, Mingyi Hong \n
+    Xinnan Zhang\*, *Siliang Zeng\**, Jiaxiang Li\*, Kaixiang Lin, Mingyi Hong \n
     NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML) \n
 
 - [https://arxiv.org/abs/2406.06874 Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback] \n 
@@ -33,41 +33,34 @@
 - [https://arxiv.org/abs/2302.07457 When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
     *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
     Thirty-seventh Conference on Neural Information Processing Systems (*NeurIPS 2023*). (*Oral: 0.5% \[67/12343\] *) \n
-    \n
 
 - [https://openreview.net/forum?id=W5SrUCN0yUa&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) A Bayesian Approach to Robust Inverse Reinforcement Learning] \n
     Ran Wei, *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Anthony D McDonald, Mingyi Hong \n
     The Conference on Robot Learning (*CoRL*) 2023. \n
     (A previous version accepted by First Workshop on Theory of Mind in Communicating Agents at ICML 2023) \n
-    \n
 
 - [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
     Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
     (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022) \n
-    \n
 
 - [https://openreview.net/forum?id=0RMDK39mGg&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization] \n
     Songtao Lu, *Siliang Zeng*, Xiaodong Cui, Mark S. Squillante, Lior Horesh, Brian Kingsbury, Jia Liu, Mingyi Hong \n
     Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
     Selected as an *Honorable Mention* in the *IBM Pat Goldberg Memorial competition for best papers*. \n
-    \n
 
 - [https://arxiv.org/abs/2110.05597 Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees] \n
     *Siliang Zeng*, Tianyi Chen, Alfredo Garcia, Mingyi Hong \n
     4th Annual Learning for Dynamics & Control Conference (*L4DC 2022*). \n
-    \n 
 
 - [https://arxiv.org/abs/2102.07367 A Near-Optimal Algorithm for Stochastic Bilevel Optimization via Double-Momentum] \n
     Prashant Khanduri, *Siliang Zeng*, Mingyi Hong, Hoi-To Wai, Zhaoran Wang, Zhuoran Yang. \n
     Thirty-fifth Conference on Neural Information Processing Systems (*NeurIPS 2021*). \n
-    \n 
 
 - [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IfqsDyYAAAAJ&citation_for_view=IfqsDyYAAAAJ:IjCSPb-OGe4C 
     Multi-Agent Reinforcement Learning for Adaptive Routing: A Hybrid Method using Eligibility Traces] \n 
     *Siliang Zeng*, Xingfei Xu, Yi Chen \n
     2020 IEEE 16th International Conference on Control & Automation (*ICCA*) \n
-    \n
 
 - [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IfqsDyYAAAAJ&sortby=pubdate&citation_for_view=IfqsDyYAAAAJ:zYLM7Y9cAGgC Network-Level System Performance Prediction Using Deep Neural Networks with Cross-Layer Information] \n
     Qi Cao, *Siliang Zeng*, Man-On Pun, Yi Chen \n
