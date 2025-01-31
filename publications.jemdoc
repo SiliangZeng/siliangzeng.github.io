@@ -4,6 +4,10 @@
 
 ~~~
 {Journal Papers}
+- [https://arxiv.org/abs/2410.14655 Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens] \n
+    Zhepeng Cen, Yao Liu, *Siliang Zeng*, Pratik Chaudhari, Huzefa Rangwala, George Karypis, Rasool Fakoor \n
+    *Transactions on Machine Learning Research* \n
+
 - [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
   State Space with Finite-Time Guarantees] \n 
     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n

@@ -62,6 +62,9 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 == Recent News
 
+- Jan 2025: One paper has been accepted to *TMLR*: \n
+[https://arxiv.org/abs/2410.14655 Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens] \n
+
 - Jan 2025: Two papers have been accepted to *ICLR 2025* and *AISTATS 2025*: \n
 [https://arxiv.org/pdf/2406.06874 Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback.] \n
 [Understanding Inverse Reinforcement Learning under Overparameterization: Non-Asymptotic Analysis and Global Optimality.] (To Appear in AISTATS 2025)
