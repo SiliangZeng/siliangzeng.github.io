@@ -9,6 +9,13 @@
 
 ~~~
 
+~~~
+{Preprints}
+- [https://openreview.net/pdf?id=mltelO89Ve From Demonstrations to Rewards: Alignment Without Explicit Human Preferences] \n
+    *Siliang Zeng*, Yao Liu, Huzefa Rangwala, George Karypis, Mingyi Hong, Rasool Fakoor \n
+
+~~~
+
 
 ~~~
 {Journal Papers}
@@ -31,10 +38,10 @@
 {Conference / Workshop Papers (\* indicates equal contribution.)}
 - [https://arxiv.org/pdf/2406.06874 Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback] \n
     Chenliang Li, *Siliang Zeng*, Zeyi Liao, Jiaxiang Li, Dongyeop Kang, Alfredo Garcia, Mingyi Hong \n 
-    The Thirteenth International Conference on Learning Representations (*ICLR 2025*). \n
+    The Thirteenth International Conference on Learning Representations (*ICLR 2025*). (*Spotlight: 5.1% *) \n
     Also accepted to NeurIPS 2025 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML 2025). \n
 
-- [Understanding Inverse Reinforcement Learning under Overparameterization: Non-Asymptotic Analysis and Global Optimality] \n 
+- [https://openreview.net/forum?id=j4CbQGb0iF Understanding Inverse Reinforcement Learning under Overparameterization: Non-Asymptotic Analysis and Global Optimality] \n 
     Ruijia Zhang, *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n 
     The 28th International Conference on Artificial Intelligence and Statistics (*AISTATS 2025*) \n
 
