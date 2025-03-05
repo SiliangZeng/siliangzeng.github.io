@@ -61,6 +61,9 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 
 == Recent News
+- Mar 2025: One paper is accepted to *Reasoning and Planning for LLMs workshop @ ICLR2025*: \n
+[https://openreview.net/pdf?id=7ETrvtvRlU Reinforcement Learning in Inference Time: A Perspective from Successive Policy Iterations.] \n
+
 - Feb 2025: One paper is accepted to *ICLR 2025* as a *spotlight*: \n
 [https://openreview.net/forum?id=VCbqXtS5YY&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback.] \n
 
