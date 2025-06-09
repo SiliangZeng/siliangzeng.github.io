@@ -32,27 +32,27 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 
 
-== Selected Publications (\* indicates equal contribution.)
+# == Selected Publications (\* indicates equal contribution.)
 
-- [https://arxiv.org/pdf/2406.06874 Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback] \n
-    Chenliang Li, *Siliang Zeng*, Zeyi Liao, Jiaxiang Li, Dongyeop Kang, Alfredo Garcia, Mingyi Hong \n 
-    The Thirteenth International Conference on Learning Representations (*ICLR 2025*). (*Spotlight: 5.1% *) \n
-    Also accepted to NeurIPS 2025 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML 2025). \n
+# - [https://arxiv.org/pdf/2406.06874 Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback] \n
+#     Chenliang Li, *Siliang Zeng*, Zeyi Liao, Jiaxiang Li, Dongyeop Kang, Alfredo Garcia, Mingyi Hong \n 
+#     The Thirteenth International Conference on Learning Representations (*ICLR 2025*). (*Spotlight: 5.1% *) \n
+#     Also accepted to NeurIPS 2025 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML 2025). \n
 
-- [https://arxiv.org/abs/2302.07457 When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
-    *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
-    Thirty-seventh Conference on Neural Information Processing Systems (*NeurIPS 2023*). (*Oral: 0.5% \[67/12343\] *) \n
+# - [https://arxiv.org/abs/2302.07457 When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning] \n 
+#     *Siliang Zeng\**, Chenliang Li\*, Alfredo Garcia, Mingyi Hong \n
+#     Thirty-seventh Conference on Neural Information Processing Systems (*NeurIPS 2023*). (*Oral: 0.5% \[67/12343\] *) \n
 
 
-- [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
-  State Space with Finite-Time Guarantees] \n 
-    *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
-    *Operations Research*.
+# - [http://arxiv.org/abs/2210.01282 Structural Estimation of Markov Decision Processes in High-Dimensional
+#   State Space with Finite-Time Guarantees] \n 
+#     *Siliang Zeng*, Mingyi Hong, Alfredo Garcia \n
+#     *Operations Research*.
 
-- [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
-    *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
-    Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
-    (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022) 
+# - [https://openreview.net/forum?id=zbt3VmTsRIj&referrer=%5Bthe%20profile%20of%20Siliang%20Zeng%5D(%2Fprofile%3Fid%3D~Siliang_Zeng1) Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees] \n 
+#     *Siliang Zeng*, Chenliang Li, Alfredo Garcia, Mingyi Hong \n
+#     Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*). \n
+#     (A previous version accepted by Decision Awareness in Reinforcement Learning Workshop at ICML 2022)
 
 
 == Recent News
