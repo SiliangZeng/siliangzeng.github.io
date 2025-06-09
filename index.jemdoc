@@ -56,6 +56,9 @@ Design RLHF algorithm for LLM alignment with low compuational cost. (Mentor: [ht
 
 
 == Recent News
+- Jun 2025: One paper is accepted to *ICML 2025 Workshop on Computer Use Agents*: \n
+[https://arxiv.org/pdf/2505.11821 Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment.] \n
+
 - May 2025: I passed my PhD defense at University of Minnesota! \n
 ~~~
 {}{img_left}{Defense.jpg}{}{400px}

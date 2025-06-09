@@ -36,6 +36,10 @@
 
 ~~~
 {Conference / Workshop Papers (\* indicates equal contribution.)}
+- [https://arxiv.org/pdf/2505.11821 Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment.] \n
+    *Siliang Zeng\**, Quan Wei\*, William Brown, Oana Frunza, Yuriy Nevmyvaka, Yang Katie Zhao, Mingyi Hong \n
+    ICML 2025 Workshop on Computer Use Agents \n
+
 - [https://openreview.net/pdf?id=7ETrvtvRlU Reinforcement Learning in Inference Time: A Perspective from Successive Policy Iterations.] \n
     Xinnan Zhang, Chenliang Li, *Siliang Zeng*, Jiaxiang Li, Zhongruo Wang, Songtao Lu, Alfredo Garcia, Mingyi Hong \n
     Reasoning and Planning for LLMs workshop @ ICLR2025 \n
